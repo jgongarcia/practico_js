@@ -12,3 +12,4 @@ function makeCafe(cafe,agua){
 }
 
 makeCafe(1,2);
+console.log("edicion de cafe sexy");
